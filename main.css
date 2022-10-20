@@ -12,8 +12,11 @@ body{
 }
 
 h3{
-    margin-bottom: 150px;
-}
+    position: absolute;
+    top:11px;
+    left:40px;
+    color:rgb(82, 82, 82);
+ }
 
 img{
     width: 70px;
@@ -116,3 +119,6 @@ img{
     transform: rotate(100deg);
     background-color: rgba(43, 77, 131, 0.2);
 }
+
+
+
